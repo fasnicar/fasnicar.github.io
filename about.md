@@ -1,5 +1,3 @@
-# About
-
 I am a tenure-track researcher at the Department of Cellular, Computational, and Integrative Biology (CIBIO) at the University of Trento, Italy. From June 2019 to April 2024, I was a postdoctoral fellow at the Laboratory of Computational Metagenomics under the supervision of Prof. Nicola Segata. During my postdoc, I also led the work of the local operative unit of the Human Microbiome Action H2020 project, a joint effort aimed at maximizing the impact of European microbiome research by facilitating, harmonizing, structuring, and advancing research and knowledge transfer in microbiome practices.
 
 My research focuses on developing and maintaining computational phylogenetics analysis tools, essential for characterizing unknown microbial organisms and exploring the intricate connections between the human gut microbiome and diet through advanced statistical and computational approaches, including machine learning.
