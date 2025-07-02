@@ -1,9 +1,11 @@
+# Home
+Welcome!
 
 # People
 * Riccardo Vanini, PhD candidate, co-supervised with [Prof. Enrico Domenici](https://www.cibio.unitn.it/302/laboratory-of-neurogenomic-biomarkers).
 
 ## Visiting
-* Ting Chia Liu, MSc student, Utrecht University
+* Ting Chia Liu, MSc student, Utrecht University - from March 10 to July 31, 2025.
 
 # Publications
 [List of publications](https://scholar.google.com/citations?user=ZbRfesUAAAAJ&hl=en&oi=ao).
