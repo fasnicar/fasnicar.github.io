@@ -4,4 +4,4 @@ I am a tenure-track researcher at the Department of Cellular, Computational, and
 
 My research focuses on developing and maintaining computational phylogenetics analysis tools, essential for characterizing unknown microbial organisms and exploring the intricate connections between the human gut microbiome and diet through advanced statistical and computational approaches, including machine learning.
 
-[CV available here](https://docs.google.com/document/d/1S60ROZBWPJoBO0kCcgtPX14HZqa0Pt0wQHCFvGfXNTI/edit?usp=sharing)
+[CV available here](https://docs.google.com/document/d/1S60ROZBWPJoBO0kCcgtPX14HZqa0Pt0wQHCFvGfXNTI/edit?usp=sharing).
