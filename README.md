@@ -1,4 +1,3 @@
-# Home
 
 # People
 * Riccardo Vanini, PhD candidate, co-supervised with [Prof. Enrico Domenici](https://www.cibio.unitn.it/302/laboratory-of-neurogenomic-biomarkers).
