@@ -1,6 +1,8 @@
 # Home
 Welcome!
 
+# Research Directions
+
 # People
 * Riccardo Vanini, PhD candidate 40th cycle, co-supervised with [Prof. Enrico Domenici](https://www.cibio.unitn.it/302/laboratory-of-neurogenomic-biomarkers)
 * Elisa Piperni, PhD candidate SEMM 37th cycle with [Prof. Nicola Segata](http://segatalab.cibio.unitn.it/) who I am co-supervising
