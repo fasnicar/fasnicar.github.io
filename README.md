@@ -1,6 +1,9 @@
 # Home
 Welcome!
 
+**We are currently looking for motivated candidates for post-doctoral research positions**. Candidates interested in metagenomics, phylogenomics, and candidates with a strong computational background are invited to contact the PI (f.asnicar@unitn.it) for informal inquiries.
+
+
 # Research Directions
 
 # People
@@ -22,4 +25,4 @@ Dept. CIBIO - University of Trento
 Via Sommarive 9, 38123 Povo (Trento), Italy  
   
 Office: (+39) 0461 283798  
-Email: [f.asnicar@unitn.it](mailto:f.asnicar@unitn.it)
+Email: f.asnicar@unitn.it
