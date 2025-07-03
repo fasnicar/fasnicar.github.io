@@ -4,12 +4,3 @@ Francesco Asnicar is a tenure-track researcher at the [Department of Cellular, C
 The research lines focus on the development and maintenance of computational phylogenetics analysis tools, essential for characterizing unknown microbial organisms and exploring the intricate connections between the human gut microbiome and diet through advanced statistical and computational approaches, including machine learning.
 
 [CV available here](https://docs.google.com/document/d/1S60ROZBWPJoBO0kCcgtPX14HZqa0Pt0wQHCFvGfXNTI/edit?usp=sharing).
-
----
-
-# Socials
- * Bluesky: [@fasnicar.bsky.social](https://bsky.app/profile/fasnicar.bsky.social)
- * X: [@fasnicar](https://x.com/)
- * [LinkedIn](https://www.linkedin.com/in/francesco-asnicar-3b248a6a/)
- * [Google Scholar](https://scholar.google.com/citations?user=ZbRfesUAAAAJ&hl=en&oi=ao)
- * ORCID: [0000-0003-3732-1468](https://orcid.org/0000-0003-3732-1468)
