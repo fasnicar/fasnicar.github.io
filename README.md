@@ -10,18 +10,16 @@ Welcome!
 
 ---
 
-# People
-* Riccardo Vanini, PhD candidate 40th cycle, co-supervised with [Prof. Enrico Domenici](https://www.cibio.unitn.it/302/laboratory-of-neurogenomic-biomarkers)
-* Elisa Piperni, PhD candidate SEMM 37th cycle with [Prof. Nicola Segata](http://segatalab.cibio.unitn.it/) who I am co-supervising
-* Michal Punčochář, PhD candidate 37th cycle with [Prof. Nicola Segata](http://segatalab.cibio.unitn.it/) who I am co-supervising
-
-## Visiting
-* Ting Chia Liu, MSc student, Utrecht University - from March 10 to July 31, 2025
+# Publications
+[List of publications](https://scholar.google.com/citations?user=ZbRfesUAAAAJ&hl=en&oi=ao).
 
 ---
 
-# Publications
-[List of publications](https://scholar.google.com/citations?user=ZbRfesUAAAAJ&hl=en&oi=ao).
+# People
+
+*PhD candidates*: Riccardo Vanini, Elisa Piperni, Michal Punčochář
+
+See the [People](people.md) page for more details.
 
 ---
 
