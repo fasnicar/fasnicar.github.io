@@ -1,6 +1,6 @@
 # People
 
-## Current Lab members
+## Current Lab Members
 
 | Name | Position | Notes |
 |------|----------|-------|
