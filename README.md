@@ -17,7 +17,7 @@ Welcome!
 
 # People
 
-*PhD candidates*: Riccardo Vanini, Elisa Piperni, Michal Punčochář
+*PhD candidates*: Riccardo Vanini, Elisa Piperni, and Michal Punčochář.
 
 See the [People](people.md) page for more details.
 
