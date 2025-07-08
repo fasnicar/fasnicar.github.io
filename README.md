@@ -8,7 +8,7 @@ Welcome!
 
 # Research Directions
 
-At the Laboratory of Microbiome and Computational Phylogenomics, our core mission is to push the boundaries of computational metagenomics and phylogenomics to unravel the intricate roles of microbial communities. We focus in high-resolution metagenomics and phylogenomics, enabling detailed characterization of microbial communities, including novel strains and their evolutionary relationships. Our work integrates diverse meta-omic data with machine learning techniques to uncover predictive biomarkers for disease onset and progression. We also explore the intricate interactions between host microbes, diet, and cardiometabolic health.
+At the Laboratory of Microbiome and Computational Phylogenomics, our core mission is to push the boundaries of computational metagenomics and phylogenomics to unravel the intricate roles of microbial communities. We focus on high-resolution metagenomics and phylogenomics, enabling detailed characterization of microbial communities, including novel strains and their evolutionary relationships. Our work integrates diverse meta-omic data with machine learning techniques to uncover predictive biomarkers for disease onset and progression. We also explore the intricate interactions between host microbes, diet, and cardiometabolic health.
 
 ---
 
