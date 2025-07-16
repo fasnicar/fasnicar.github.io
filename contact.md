@@ -1,4 +1,4 @@
-# Contacts
+# Contact
 Francesco Asnicar, PhD
 
 [Lab. of Human Microbiome and Computational Phylogenomics]()  
