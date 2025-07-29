@@ -12,4 +12,5 @@
 
 | Name | Position | Institution | Period |
 |------|----------|-------------|--------|
+| Narciso Martín Quijiada | Head of the Bioinformatics and Data Science Unit | Institute of Functional Biology and Genomics (IBFG), Spanish National Research Council (CSIC), University of Salamanca | from July 7 to August 8, 2025 |
 | Ting-Chia Liu | MSc student | Utrecht University | from March 10 to July 31, 2025 |
