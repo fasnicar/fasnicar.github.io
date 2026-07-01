@@ -4,10 +4,11 @@
 
 | Name | Position | Notes |
 |------|----------|-------|
-| Camilla Reginatto De Pierri | Postdoctoral fellow | joined on December 2024 |
-| Federico Fontana | Postdoctoral fellow | joined on November 2024 |
-| Alessio Caramori | PhD candidate 41st cycle |  |
-| Riccardo Vanini | PhD candidate 40th cycle | co-supervised with [Prof. Enrico Domenici](https://www.cibio.unitn.it/302/laboratory-of-neurogenomic-biomarkers) |
+| Alessia Tatti | Postdoctoral fellow | joined on July 2026 |
+| Camilla Reginatto De Pierri | Postdoctoral fellow | joined on December 2025 |
+| Federico Fontana | Postdoctoral fellow | joined on November 2025 |
+| Alessio Caramori | PhD candidate 41st cycle | joined on November 2025 |
+| Riccardo Vanini | PhD candidate 40th cycle | joined on November 2024, co-supervised with [Prof. Enrico Domenici](https://www.cibio.unitn.it/302/laboratory-of-neurogenomic-biomarkers) |
 
 
 ## Visiting
