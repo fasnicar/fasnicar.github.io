@@ -15,6 +15,7 @@
 
 | Name | Position | Institution | Period |
 |------|----------|-------------|--------|
+| Verónica Tolosa | PhD student | Institute of Agrochemistry and Food Technology (IATA) – Spanish National Research Council (CSIC) | from September 1 to November 30, 2026 |
 | Kevin Jerez-Bogota | Postdoc | Department of Animal and Veterinary Sciences - ANIVET Gut and host health (GHH) | from April 20 to May 19, 2026 |
 | Narciso Martín Quijiada | Head of the Bioinformatics and Data Science Unit | Institute of Functional Biology and Genomics (IBFG), Spanish National Research Council (CSIC), University of Salamanca | from July 7 to August 8, 2025 |
 | Ting-Chia Liu | MSc student | Utrecht University | from March 10 to July 31, 2025 |
