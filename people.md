@@ -4,6 +4,7 @@
 
 | Name | Position | Notes |
 |------|----------|-------|
+| Roberto Corral López | EMBO Postdoctoral fellow | joined on September 2026 |
 | Alessia Tatti | Postdoctoral fellow | joined on July 2026 |
 | Camilla Reginatto De Pierri | Postdoctoral fellow | joined on December 2025 |
 | Federico Fontana | Postdoctoral fellow | joined on November 2025 |
