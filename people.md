@@ -4,12 +4,13 @@
 
 | Name | Position | Notes |
 |------|----------|-------|
-| Roberto Corral López | EMBO Postdoctoral fellow | joined on September 2026 |
-| Alessia Tatti | Postdoctoral fellow | joined on July 2026 |
-| Camilla Reginatto De Pierri | Postdoctoral fellow | joined on December 2025 |
-| Federico Fontana | Postdoctoral fellow | joined on November 2025 |
-| Alessio Caramori | PhD candidate 41st cycle | joined on November 2025 |
-| Riccardo Vanini | PhD candidate 40th cycle | joined on November 2024, co-supervised with [Prof. Enrico Domenici](https://www.cibio.unitn.it/302/laboratory-of-neurogenomic-biomarkers) |
+| Leonardo Vincenzi | Postdoctoral fellow | joined November 2026 |
+| Roberto Corral López | EMBO Postdoctoral fellow | joined September 2026 |
+| Alessia Tatti | Postdoctoral fellow | joined July 2026 |
+| Camilla Reginatto De Pierri | Postdoctoral fellow | joined December 2025 |
+| Federico Fontana | Postdoctoral fellow | joined November 2025 |
+| Alessio Caramori | PhD candidate 41st cycle | joined November 2025 |
+| Riccardo Vanini | PhD candidate 40th cycle | joined November 2024, co-supervised with [Prof. Enrico Domenici](https://www.cibio.unitn.it/302/laboratory-of-neurogenomic-biomarkers) |
 
 
 ## Visiting
