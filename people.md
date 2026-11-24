@@ -4,6 +4,7 @@
 
 | Name | Position | Notes |
 |------|----------|-------|
+| Songtao Fan | CSC Postdoctoral fellow | joined November 2026 |
 | Leonardo Vincenzi | Postdoctoral fellow | joined November 2026 |
 | Roberto Corral López | EMBO Postdoctoral fellow | joined September 2026 |
 | Alessia Tatti | Postdoctoral fellow | joined July 2026 |
